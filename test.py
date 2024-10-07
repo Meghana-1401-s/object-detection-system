@@ -1,3 +1,4 @@
+// run this file of code to execute the program!
 import cv2
 
 cap = cv2.VideoCapture(0)
